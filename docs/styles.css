@@ -1,13 +1,11 @@
 body {
     background-color: black;
+    height: 100vh;
+    overflow: hidden;
 }
 
 .mainvideo {
-    right: 50%;
-    bottom: 55%;
-    transform: translate(50%, 50%);
-    height: 70vh;
-    position: absolute;
+    height: 75%;
 }
 
 p {
@@ -20,17 +18,19 @@ p {
     text-align: center;
 }
 
+.center {
+    display: block;
+    margin: auto;
+}
+
 .footer {
-    text-align: center;
-    position: fixed;
-    bottom: 0;
-    width: 100%;
-    display: inline-block;
-    vertical-align: top;
-    font-size: 13px;
+    height: 15%;
 }
 
 .ima-link img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 10vh;
 }
 
@@ -39,12 +39,12 @@ a {
 }
 
 ul {
-    display: inline-block;
-    transform: translate(-12%, 0%);
-    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    transform: translate(44%, 0);
 }
 
 li {
     float: left;
-    margin: 0 auto;
 }
