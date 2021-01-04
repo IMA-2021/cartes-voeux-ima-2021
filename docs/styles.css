@@ -4,9 +4,9 @@ body {
 
 .mainvideo {
     right: 50%;
-    bottom: 50%;
+    bottom: 55%;
     transform: translate(50%, 50%);
-    height: 80vh;
+    height: 70vh;
     position: absolute;
 }
 
@@ -18,4 +18,33 @@ p {
 
 .align-center {
     text-align: center;
+}
+
+.footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 13px;
+}
+
+.ima-link img {
+    height: 10vh;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    display: inline-block;
+    transform: translate(-12%, 0%);
+    text-align: center;
+}
+
+li {
+    float: left;
+    margin: 0 auto;
 }
