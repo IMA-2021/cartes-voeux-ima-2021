@@ -1,0 +1,46 @@
+<mjml>
+  <mj-body>
+    <mj-section background-color="black">
+      <mj-column>
+<mj-text font-size="16px" align="center" color="rgb(229, 183, 78)" font-family="arial">L'Institut du Monde Arabe vous présente ses meilleurs voeux 2021.</mj-text>
+<mj-text font-size="16px" align="center" color="rgb(229, 183, 78)" font-family="arial">معهد العالم العربي يتقدم إليكم بإحلى تمنياته للعام الجديد</mj-text>
+     </mj-column>
+    </mj-section>
+    <mj-section background-color="black">
+
+
+          <mj-column>
+
+        <mj-image src="https://gregoiredelzongle.github.io/cartes-voeux-ima-2020/animated.gif"></mj-image>
+        
+                 </mj-column>
+    </mj-section>
+        <mj-section background-color="black">
+                <mj-column></mj-column>
+
+      <mj-column>
+        <mj-image href="https://www.imarabe.org/fr" src="https://gregoiredelzongle.github.io/cartes-voeux-ima-2020/15o98.png"></mj-image>
+             </mj-column>
+
+              <mj-column></mj-column>
+    </mj-section>
+        <mj-section background-color="black">
+
+      <mj-column>
+
+        
+        <mj-text font-size="14px" align="center" color="rgb(229, 183, 78)" font-family="arial">Suivez nous sur</mj-text>
+
+		<mj-social>
+      <mj-social-element background-color="transparent" src="https://gregoiredelzongle.github.io/cartes-voeux-ima-2020/15or3.png" href="https://www.youtube.com/user/imarabe" name="facebook" />
+      <mj-social-element background-color="transparent" href="https://www.instagram.com/institutdumondearabe/" src="https://gregoiredelzongle.github.io/cartes-voeux-ima-2020/15oy6.png"name="instagram" />
+      <mj-social-element background-color="transparent" href="https://www.facebook.com/institutdumondearabe/" src="https://gregoiredelzongle.github.io/cartes-voeux-ima-2020/15oyr.png"name="youtube" />
+      <mj-social-element background-color="transparent" href="https://twitter.com/imarabe" src="https://gregoiredelzongle.github.io/cartes-voeux-ima-2020/155w1.png"name="twitter" />
+    </mj-social>
+     </mj-column>
+    </mj-section>
+        
+
+
+  </mj-body>
+</mjml>
